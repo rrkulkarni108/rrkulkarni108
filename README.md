@@ -1,5 +1,5 @@
 ## Radhika R. Kulkarni
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/your-profile-name](https://linkedin.com/in/radhika-kulkarni108))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/radhika-kulkarni108)
 
 **PhD student at Texas A&M studying wavelet analysis, time series, and more 🌱. I am particularly interested in applications of wavelet analysis to medical and environmental domains and deepening my knowledge in Bayesian statistics.** 
 
