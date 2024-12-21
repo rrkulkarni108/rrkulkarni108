@@ -10,5 +10,5 @@
 - ☕ Java
 - 🖥️ Oracle & PostgreSQL
 
-# 📫 Contact: 
+## 📫 Contact: 
 rrkulkarni at tamu dot edu
