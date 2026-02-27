@@ -8,7 +8,7 @@
 - 📊 R/Rcpp
 - 📈 MATLAB
 - ☕ Java
-- 🖥️ Oracle & PostgreSQL
+- 🖥️ SQL (Oracle & PostgreSQL)
 
 ## 📫 Contact: 
 rrkulkarni at tamu dot edu
